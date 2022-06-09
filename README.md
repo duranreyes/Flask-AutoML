@@ -4,8 +4,6 @@ Deploy automated machine learning (AutoML) as a service using `Flask`, for both 
 
 The framework implements a fully automated time series classification pipeline, automating both feature engineering and model selection and optimization using Python libraries, `TPOT` and `tsfresh`. 
 
-Check out the [blog post](https://content.pivotal.io/blog/automated-machine-learning-deploying-automl-to-the-cloud) for more info.
-
 <p>
   <img src="https://github.com/crawles/Logos/blob/master/automl.gif?raw=true" width = 80%>
 </p>
