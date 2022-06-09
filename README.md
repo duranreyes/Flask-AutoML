@@ -147,7 +147,4 @@ For production, I would suggest splitting training and serving into seperate app
 </p>
 A scalable model training and model serving architecture.
 
-## Author
-
-`Chris Rawles`
 
